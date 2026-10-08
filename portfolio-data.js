@@ -79,5 +79,20 @@ window.PORTFOLIO_DATA = {
     { number: "01", icon: "◈", name: "FRONTEND", heading: "Pixel-perfect interfaces", description: "Crafting responsive experiences that feel just as good as they look.", technologies: ["HTML5", "CSS3", "JavaScript", "Responsive UI", "UI / UX"] },
     { number: "02", icon: "⌘", name: "BACKEND", heading: "The logic underneath", description: "Building dependable systems, clean APIs, and structured data flows.", technologies: ["PHP", "Laravel", "Node.js", "Express", "PostgreSQL", "REST APIs"] },
     { number: "03", icon: "✳", name: "TOOLS & WORKFLOW", heading: "Bringing it all together", description: "The tools and practices I use to turn a sketch into something real.", technologies: ["Git", "VS Code", "Postman", "XAMPP", "Figma"] }
-  ]
+  ],
+  socials: [
+  {
+    label: "Facebook",
+    url: "https://www.facebook.com/Hms.bon"
+  },
+  {
+    label: "Instagram",
+    url: "https://www.instagram.com/yourusername/"
+  },
+  {
+    label: "Telegram",
+    url: "https://t.me/yourusername"
+  }
+],
+  
 };
