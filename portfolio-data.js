@@ -71,7 +71,7 @@ window.PORTFOLIO_DATA = {
       description: "A reusable authentication and authorization library concept for protecting PHP apps with user groups and permissions.",
       highlights: ["Login and logout handling", "Group-based application access", "Reusable, modular PHP integration"],
       tags: ["PHP", "Authentication", "SQL"],
-      liveUrl: "https://royce-portfolio-gamma.vercel.app/",
+      liveUrl: "",
       githubUrl: ""
     }
   ],
